@@ -36,9 +36,13 @@ Hover over any bar in the professional summary section to see detailed informati
 
 ## How to Use
 1.Navigating the Dashboard: Use the interactive elements such as icons and arrows to explore different sections of my resume.
+
 2.Viewing Certifications: Click on any certification icon to be redirected to the certification details.
+
 3.Exploring Profiles: Click on the icons for LinkedIn, Tableau Public, GitHub, and Gmail to visit my profiles and get in touch.
+
 4.Understanding Skills and Experience: Hover over skill icons and bars in the professional summary section for detailed information.
+
 5.Project Details: Hover over the arrow icons next to projects to see the corresponding dashboard screenshots.
 
 ## Contact

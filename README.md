@@ -7,6 +7,7 @@ This Tableau project showcases my professional summary, certifications, skills, 
 *    Tableau Desktop Specialist
 *    Associate in Python Programming
 *    Rutgers Data Science Boot Camp
+
 Each certification is represented by an icon. Clicking on an icon will direct you to the corresponding certification.
 
 ## Social and Professional Profiles
